@@ -3,6 +3,7 @@ package com.ssmsconnect.demoSpringJpaCrud;
 import org.springframework.stereotype.Component;
 
 
+
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 
